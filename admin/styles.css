@@ -1,0 +1,59 @@
+.btn_agregar_palabra{
+	
+	margin: 10px;
+}
+
+.titulos{
+	font-size: 25px;
+	font-style: bold;
+}
+
+
+.agregar{
+	font-size: 50px ;
+	background-color: #61B940;
+	cursor: pointer;
+}
+.agregar:hover{
+	background: #5DAF3E;	
+}
+
+.edit{
+	
+	font-size: 30px ;
+	margin: 10px;
+	background-color:#4DC2E8;
+	cursor: pointer;
+
+}
+
+.edit:hover{
+	background: #47B0D2;	
+}
+
+.delete{
+	font-size: 30px ;
+	margin: 10px;
+	background-color: #E52E2E;
+	cursor: pointer;
+
+}
+.delete:hover{
+	background: #C02727;	
+}
+
+.agregar_video{
+	font-size: 60px ;
+	background-color: #2C96F4;
+	cursor: pointer;
+	border-radius: 5px;
+}
+.agregar_video:hover{
+	background: #0685F6;	
+}
+
+.centrado_login{
+	right: 50%;
+	top: -50%;
+	background-color: black;
+}
